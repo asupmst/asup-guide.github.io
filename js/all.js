@@ -1142,10 +1142,10 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
     // menu
-    DREX_NODE_NAMES: ["Начальная страница","1. Вопросы по аналитике ERP АСУП","2. Вопросы по отражению операций","4. ОПИСАНИЕ ОПЕРАЦИЙ","3. ТЕРМИНЫ И СОКРАЩЕНИЯ","4. ПОДГОТОВКА К РАБОТЕ","6. РЕКОМЕНДАЦИИ ПО ОСВОЕНИЮ","1.1. Как сформировать отчет по заказам клиентов в разрезе Сопровождение/Разработка","2.1. Как отразить операцию в новой системе?","4.1. Порядок проверки работоспособности","4.2. Порядок загрузки данных и программ","Ввод данных по сопровождению","Ввод данных по разработке"],
-    DREX_NODE_LINKS: ["index.htm","voprosy_po_analitike_erp_asup.htm","voprosy_po_otrazheniyu_operatsij.htm","opisanie_operatsij.htm","terminy_i_sokrashcheniya.htm","podgotovka_k_rabote.htm","rekomendatsii_po_osvoeniyu.htm","kak_sformirovat_otchet_po_zakazam_klientov_v_razreze_soprovozhdenie_razrabotka.htm","kak_otrazit_operatsiyu_v_novoj_sisteme_.htm","poryadok_proverki_rabotosposobnosti.htm","poryadok_zagruzki_dannykh_i_programm.htm","vvod_dannykh_po_soprovozhdeniyu.htm","vvod_dannykh_po_razrabotke.htm"],
-    DREX_NODE_CHILD_START: [1,7,8,9,9,9,11,11,13,13,13,13,13],
-    DREX_NODE_CHILD_END: [7,8,9,9,9,11,11,13,13,13,13,13,13],
+    DREX_NODE_NAMES: ["Начальная страница","1. Вопросы по аналитике ERP АСУП","2. Вопросы по отражению операций","4. ОПИСАНИЕ ОПЕРАЦИЙ","3. ТЕРМИНЫ И СОКРАЩЕНИЯ","4. ПОДГОТОВКА К РАБОТЕ","6. РЕКОМЕНДАЦИИ ПО ОСВОЕНИЮ","1.1. Как сформировать отчет по заказам клиентов в разрезе Сопровождение/Разработка","2.1. Как отразить операцию в новой системе?","4.1. Порядок проверки работоспособности","4.2. Порядок загрузки данных и программ","Ввод данных по сопровождению","Ввод данных по разработке","gggg"],
+    DREX_NODE_LINKS: ["index.htm","voprosy_po_analitike_erp_asup.htm","voprosy_po_otrazheniyu_operatsij.htm","opisanie_operatsij.htm","terminy_i_sokrashcheniya.htm","podgotovka_k_rabote.htm","rekomendatsii_po_osvoeniyu.htm","kak_sformirovat_otchet_po_zakazam_klientov_v_razreze_soprovozhdenie_razrabotka.htm","kak_otrazit_operatsiyu_v_novoj_sisteme_.htm","poryadok_proverki_rabotosposobnosti.htm","poryadok_zagruzki_dannykh_i_programm.htm","vvod_dannykh_po_soprovozhdeniyu.htm","vvod_dannykh_po_razrabotke.htm","gggg.htm"],
+    DREX_NODE_CHILD_START: [1,7,8,9,9,9,11,11,14,14,14,14,14,14],
+    DREX_NODE_CHILD_END: [7,8,9,9,9,11,11,14,14,14,14,14,14,14],
     DREX_MENU_TYPE: 2,
     DREX_HAS_ROOT_NODE: 0};
 
