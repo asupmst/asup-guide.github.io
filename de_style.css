@@ -76,8 +76,41 @@ margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;}
 img.de_D457E58A2E
 {
 margin-top: 0px; margin-right: 8px; margin-bottom: 8px; margin-left: 8px;}
+span.de_23C19DE48C
+{
+	font-family: "Times New Roman";
+	font-size: 11pt;
+	color:#000000;
+}
 span.de_2B94C39861
 {
+	color:#0000ff;
+	text-decoration:underline;
+}
+span.de_383B3D8D02
+{
+	font-family: "Times New Roman";
+	font-size: 11pt;
+	color:#000000;
+	text-decoration:underline;
+}
+span.de_3C2A5A84F8
+{
+	font-family: "Times New Roman";
+	font-size: 11pt;
+	color:#0000ff;
+	text-decoration:underline;
+}
+span.de_41FACAAE6A
+{
+	font-family: "Calibri";
+	font-size: 16pt;
+	color:#000000;
+}
+span.de_46BE6C215B
+{
+	font-family: "Times New Roman";
+	font-size: 10pt;
 	color:#0000ff;
 	text-decoration:underline;
 }
@@ -93,10 +126,36 @@ span.de_4CD179DA38
 	font-size: 11pt;
 	color:#000000;
 }
+span.de_59A3B2E3FF
+{
+	font-family: "Times New Roman";
+	font-size: 7pt;
+	color:#000000;
+}
+span.de_669D8AB381
+{
+	font-family: "Symbol";
+	font-size: 12pt;
+	color:#000000;
+}
 span.de_67BC475A8E
 {
 	font-family: "Calibri";
 	font-size: 10pt;
+	color:#000000;
+}
+span.de_6AB5B45866
+{
+	font-family: "Times New Roman";
+	font-size: 10pt;
+	color:#0000ff;
+	font-style:italic;
+	text-decoration:underline;
+}
+span.de_6B7F0857AE
+{
+	font-family: "Calibri";
+	font-size: 14pt;
 	color:#000000;
 }
 span.de_7EA41EC2FA
@@ -115,15 +174,54 @@ span.de_A1C954FB2E
 	font-size: 9pt;
 	color:#a1a1a1;
 }
+span.de_B2D98C5D65
+{
+	font-family: "Calibri";
+	font-size: 10pt;
+	color:#000000;
+	font-style:italic;
+}
+span.de_C40D65A6EB
+{
+	font-family: "Calibri";
+	font-size: 12pt;
+	color:#000000;
+	font-style:italic;
+}
 span.de_D455D5BF1A
 {
 	font-family: "Calibri";
 	font-size: 10pt;
 	color:#ff0000;
 }
+span.de_D68646C8A7
+{
+	font-family: "Courier New";
+	font-size: 12pt;
+	color:#000000;
+}
 span.de_D8BCB2AC4C
 {
 	font-family: "Calibri";
+	font-size: 12pt;
+	color:#000000;
+}
+span.de_EC8B4D5AF2
+{
+	font-family: "Times New Roman";
+	font-size: 10pt;
+	color:#000000;
+}
+span.de_FB20A633A4
+{
+	font-family: "Times New Roman";
+	font-size: 9pt;
+	color:#0000ff;
+	text-decoration:underline;
+}
+span.de_FD31081CCA
+{
+	font-family: "Wingdings";
 	font-size: 12pt;
 	color:#000000;
 }
