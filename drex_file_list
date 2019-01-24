@@ -37,6 +37,7 @@ de_search\0xu0049.json
 de_search\0xu0045.json
 de_search\0xu0044.json
 de_search\0xu0043.json
+de_search\0xu0042.json
 de_search\0xu0039.json
 de_search\0xu0038.json
 de_search\0xu0037.json
@@ -132,6 +133,9 @@ erp__otrazhenie_sostoyaniya_obrabotki_zayavki.htm
 do__otrazhenie_sostoyaniya_obrabotki_zayavki.htm
 kak_otrazit_sostoyanie_obrabotki_zayavki.htm
 voprosy_po_otrazheniyu_operatsij.htm
+erp__razdely_ucheta.htm
+erp__funktsionalnye_bloki.htm
+razdely_ucheta_i_funktsionalnye_bloki_v_erp.htm
 drex_kak_posmotret_grafik_otpuskov_komandy__custom.png
 kak_posmotret_grafik_otpuskov_komandy_.htm
 sostav_statej_byudzheta.htm
