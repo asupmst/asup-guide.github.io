@@ -1,3 +1,7 @@
 [
-	{ "s": "SERVICE", "p": [33] }
+	{ "s": "SERVERBIT2", "p": [43] },
+	{ "s": "SERVERBIT2\\DOCS\\VANESSA\\ВИДЕО", "p": [43] },
+	{ "s": "SERVICE", "p": [39] },
+	{ "s": "SILVERBULLETERS", "p": [51, 50] },
+	{ "s": "STUDIO", "p": [45] }
 ]

@@ -107,6 +107,13 @@ span.de_41FACAAE6A
 	font-size: 16pt;
 	color:#000000;
 }
+span.de_4240AE2C05
+{
+	font-family: "Calibri";
+	font-size: 11pt;
+	color:#000000;
+	text-decoration:underline;
+}
 span.de_46BE6C215B
 {
 	font-family: "Times New Roman";
@@ -158,6 +165,13 @@ span.de_6B7F0857AE
 	font-size: 14pt;
 	color:#000000;
 }
+span.de_6C2B69BD23
+{
+	font-family: "Calibri";
+	font-size: 11pt;
+	color:#0000ff;
+	text-decoration:underline;
+}
 span.de_7EA41EC2FA
 {
 	font-size: 16pt;
@@ -167,6 +181,13 @@ span.de_7ECBECEBE5
 	font-family: "Times New Roman";
 	font-size: 12pt;
 	color:#000000;
+}
+span.de_85070B0635
+{
+	font-family: "Times New Roman";
+	font-size: 7pt;
+	color:#000000;
+	text-decoration:underline;
 }
 span.de_A1C954FB2E
 {
@@ -181,12 +202,24 @@ span.de_B2D98C5D65
 	color:#000000;
 	font-style:italic;
 }
+span.de_C0FD669A4F
+{
+	font-family: "Consolas";
+	font-size: 9pt;
+	color:#404040;
+}
 span.de_C40D65A6EB
 {
 	font-family: "Calibri";
 	font-size: 12pt;
 	color:#000000;
 	font-style:italic;
+}
+span.de_CBF33CA685
+{
+	font-family: "Consolas";
+	font-size: 11pt;
+	color:#000000;
 }
 span.de_D305498EDE
 {
@@ -341,6 +374,114 @@ span.de_FD31081CCA
 	counter-increment: list-counter-5;
 }
 .list-counter-5 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-6 > div > * {
+	text-indent: 0px;}
+.list-counter-6 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-6, decimal) '.\00a0';
+	counter-increment: list-counter-6;
+}
+.list-counter-6 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-7 > div > * {
+	text-indent: 0px;}
+.list-counter-7 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-7, disc) '\00a0';
+	counter-increment: list-counter-7;
+}
+.list-counter-7 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-8 > div > * {
+	text-indent: 0px;}
+.list-counter-8 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-8, disc) '\00a0';
+	counter-increment: list-counter-8;
+}
+.list-counter-8 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-9 > div > * {
+	text-indent: 0px;}
+.list-counter-9 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-9, disc) '\00a0';
+	counter-increment: list-counter-9;
+}
+.list-counter-9 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-10 > div > * {
+	text-indent: 0px;}
+.list-counter-10 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-10, disc) '\00a0';
+	counter-increment: list-counter-10;
+}
+.list-counter-10 > div > div[class='list-marker-chm'] {
+	display: inline-block;
+	text-align: left;
+	zoom: 1;
+	padding: 0;
+	margin: 0;
+	*display: inline;
+}
+.list-counter-11 > div > * {
+	text-indent: 0px;}
+.list-counter-11 > div > div[class='list-marker']:before {
+	display: inline-block;
+	text-align: left;
+	padding: 0;
+	margin: 0;
+	content: '' counter(list-counter-11, disc) '\00a0';
+	counter-increment: list-counter-11;
+}
+.list-counter-11 > div > div[class='list-marker-chm'] {
 	display: inline-block;
 	text-align: left;
 	zoom: 1;

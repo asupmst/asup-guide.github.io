@@ -1,4 +1,5 @@
 [
+	{ "s": "READTHEDOCS", "p": [51, 50] },
 	{ "s": "REF", "p": [7, 6] },
-	{ "s": "RESOURCE", "p": [33] }
+	{ "s": "RESOURCE", "p": [39] }
 ]

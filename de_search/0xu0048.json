@@ -1,4 +1,12 @@
 [
-	{ "s": "HTML", "p": [20] },
-	{ "s": "HTML/PDF", "p": [20] }
+	{ "s": "HABR", "p": [51, 50] },
+	{ "s": "HTML", "p": [51, 50] },
+	{ "s": "HTTPS", "p": [50, 51] },
+	{ "s": "HTTPS://GITHUB.COM/SILVERBULLETERS/ADD/BLOB/MASTER/DOC/XDD/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8---%D1%83%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F.MD", "p": [51, 50] },
+	{ "s": "HTTPS://GITHUB.COM/SILVERBULLETERS/VANESSA-BEHAVIOR", "p": [51, 50] },
+	{ "s": "HTTPS://HABR.COM/POST/252473", "p": [51, 50] },
+	{ "s": "HTTPS://WELLBEHAVED.READTHEDOCS.IO/GHERKIN.HTML", "p": [51, 50] },
+	{ "s": "HTTPS://WWW.YOUTUBE.COM/CHANNEL/UC2MJ4LLMG-FF4QKC_KQN_IQ", "p": [50] },
+	{ "s": "HTTPS://WWW.YOUTUBE.COM/PLAYLIST?LIST", "p": [50] },
+	{ "s": "HTTPS://WWW.YOUTUBE.COM/WATCH?V", "p": [50] }
 ]
