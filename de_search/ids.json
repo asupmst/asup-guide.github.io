@@ -51,9 +51,10 @@
 	"50": ["3.3.1.4. Требования к разработчикам", "trebovaniya_k_razrabotchikam.htm"],
 	"51": ["3.3.1.5. Требования к аналитикам", "trebovaniya_k_analitikam.htm"],
 	"52": ["3.3.1.6. Детализация тестов", "detalizatsiya_testov.htm"],
-	"53": ["4. ТЕРМИНЫ И СОКРАЩЕНИЯ", "terminy_i_sokrashcheniya.htm"],
-	"54": ["5. ПОДГОТОВКА К РАБОТЕ", "podgotovka_k_rabote.htm"],
-	"55": ["5.1. Порядок проверки работоспособности", "poryadok_proverki_rabotosposobnosti.htm"],
-	"56": ["5.2. Порядок загрузки данных и программ", "poryadok_zagruzki_dannykh_i_programm.htm"],
-	"57": ["6. РЕКОМЕНДАЦИИ ПО ОСВОЕНИЮ", "rekomendatsii_po_osvoeniyu.htm"]
+	"53": ["Отражение отработанного времени в ERP", "otrazhenie_otrabotannogo_vremeni_v_erp.htm"],
+	"54": ["4. ТЕРМИНЫ И СОКРАЩЕНИЯ", "terminy_i_sokrashcheniya.htm"],
+	"55": ["5. ПОДГОТОВКА К РАБОТЕ", "podgotovka_k_rabote.htm"],
+	"56": ["5.1. Порядок проверки работоспособности", "poryadok_proverki_rabotosposobnosti.htm"],
+	"57": ["5.2. Порядок загрузки данных и программ", "poryadok_zagruzki_dannykh_i_programm.htm"],
+	"58": ["6. РЕКОМЕНДАЦИИ ПО ОСВОЕНИЮ", "rekomendatsii_po_osvoeniyu.htm"]
 }
