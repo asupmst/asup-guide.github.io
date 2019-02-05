@@ -1,8 +1,9 @@
 [
-	{ "s": "SERVERBIT2", "p": [53, 45, 43] },
-	{ "s": "SERVERBIT2\\DOCS\\VANESSA\\ВИДЕО", "p": [45, 43] },
-	{ "s": "SERVERBIT2\\DOCS\\АСУП\\ОТРАЖЕНИЕ", "p": [53] },
-	{ "s": "SERVICE", "p": [39] },
-	{ "s": "SILVERBULLETERS", "p": [51, 50] },
-	{ "s": "STUDIO", "p": [45] }
+	{ "s": "SERVERBIT2", "p": [34, 56, 48, 46] },
+	{ "s": "SERVERBIT2\\DOCS\\VANESSA\\ВИДЕО", "p": [48, 46] },
+	{ "s": "SERVERBIT2\\DOCS\\АСУП\\АКТ", "p": [34] },
+	{ "s": "SERVERBIT2\\DOCS\\АСУП\\ОТРАЖЕНИЕ", "p": [56] },
+	{ "s": "SERVICE", "p": [42] },
+	{ "s": "SILVERBULLETERS", "p": [54, 53] },
+	{ "s": "STUDIO", "p": [48] }
 ]
